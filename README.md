@@ -9,7 +9,6 @@ Added optional features:
 -[x] When someone wins, highlight the three squares that caused the win.
 -[ ] When no one wins, display a message about the result being a draw.
 
->>>>>>> 99f651defa5afa16c4384edd2551744f344ca1a7
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
